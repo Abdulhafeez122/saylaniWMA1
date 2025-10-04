@@ -1,0 +1,80 @@
+
+body{
+    background-image: url(images.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+      background-color: rgb(39, 150, 85)
+      
+}
+
+.resume{
+    background-color: darkmagenta;
+    text-align: center;
+    color:white;
+} 
+#name{
+    background-color:darkgreen;
+    color: white;
+}
+.info >p {
+    background-color: rgb( 50, 168, 94);
+    color: white;
+}
+.object{
+    color: rgb(140, 52, 235) ;
+}
+.Education{
+    color: aqua;
+}
+.skills >h1{
+background-color: darkorchid;  
+
+    color:white;
+}
+.skills > ul {
+    background-color: darkmagenta;
+    color: white;
+}
+.obj >h1{
+    background-color: rgb(50, 83, 168);
+    color: white;
+}
+.obj >p{
+    background-color: rgb(50, 168, 160);
+    color: white;
+}
+.edu > h1{
+    background-color: darkturquoise;
+    color: white;
+}
+.edu > ul{
+    background-color: rgba(40, 141, 111, 0.685);
+    color: white;
+}
+
+.lang >h1{
+    background-color: rgb(52, 168, 50);
+    color: white;
+}
+.lang{
+    background-color:rgb(50, 168, 103) ;
+    color: white;
+}
+.hob>H1{
+    background-color: navy;
+    color: white;
+}
+.hob > ul{
+    color: white;
+    background-color: rgb(50, 127, 168)
+    
+}
+.addi >h1{
+    background-color: darkslategray;
+    color: white;
+}
+.addi>ul{
+    background-color: yellowgreen;
+    color: white;
+}
